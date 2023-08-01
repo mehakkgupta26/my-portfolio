@@ -1,6 +1,6 @@
 # my-portfolio
 
-##To deploy 
+## To deploy 
 run cmd -  surge at project root level
 
 To delete - 
