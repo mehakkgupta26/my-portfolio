@@ -601,7 +601,7 @@
   position: relative;
   top: -15px;
   border-radius: 10px;
-  background-image: url("https://uploads-ssl.webflow.com/5b32655069229148933e1636/5b33a295c698a7063367763e_Artboard%202%20Copy.jpg");
+   background-image: url("https://uploads-ssl.webflow.com/5b32655069229148933e1636/5b33a295c698a7063367763e_Artboard%202%20Copy.jpg"); */
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -626,7 +626,7 @@
 .project-recent._3 {
   margin-bottom: 11px;
   border-radius: 5px;
-  background-image: url("library.png");
+  background-image: url("chatbox.png");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -634,7 +634,7 @@
 
 .project-recent._5 {
   border-radius: 5px;
-  background-image: url("chess.jpeg");
+  background-image: url("drsomay.png");
   background-position: 50% 50%;
   background-size: cover;
 }
